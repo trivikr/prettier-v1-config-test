@@ -7,7 +7,17 @@
   "license": "MIT",
   "prettier": "prettier-v1-config",
   "devDependencies": {
+    "husky": ">=4",
+    "lint-staged": ">=10",
     "prettier": "2.0.4",
     "prettier-v1-config": "^1.0.0-beta.2"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  },
+  "lint-staged": {
+    "*.{js,css,md}": "prettier --write"
   }
 }
