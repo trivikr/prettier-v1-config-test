@@ -686,10 +686,10 @@ please-upgrade-node@^3.2.0:
   dependencies:
     semver-compare "^1.0.0"
 
-prettier-v1-config@^1.0.0-beta.2:
-  version "1.0.0-beta.2"
-  resolved "https://registry.yarnpkg.com/prettier-v1-config/-/prettier-v1-config-1.0.0-beta.2.tgz#6cd8cf4aa33a28dfd4dfaedcb9c34cef593418d9"
-  integrity sha512-9z4u1H55egTJ0VLnsH6eNElIpEQaFvzAzDdp/EmzJQ6hipqYaldsobJHdCnKDMdFWqnuEJNli9IhwN/rFE1toQ==
+prettier-v1-config@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/prettier-v1-config/-/prettier-v1-config-1.0.0.tgz#950762902d86f8d61c2ec9a3bb6a382a653e34da"
+  integrity sha512-YAQtydc+XI7wc97SwCXV398Y9LN8IR+Z8zMTViVI0JAHv2wzAbP+7MQfGEzEMtwLXBwa4i0rBitsjFCbuZ9NOg==
 
 prettier@2.0.4:
   version "2.0.4"
