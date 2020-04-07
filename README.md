@@ -1,6 +1,6 @@
 # prettier-v1-config-test
 
-Testing npm package prettier-v1-config
+Testing npm package [prettier-v1-config](https://www.npmjs.com/package/prettier-v1-config)
 
 ## Steps to test
 
